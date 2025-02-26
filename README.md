@@ -1,2 +1,2 @@
 # NatsukosSharingWebsite
-coming soon!
+webForms => aspnetcore/React UI conversion coming soon!
